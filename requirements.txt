@@ -1,6 +1,3 @@
 pandas
 numpy
-sklearn
-sys
-os
-misc
+scikit-learn
