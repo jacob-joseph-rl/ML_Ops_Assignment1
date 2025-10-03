@@ -3,7 +3,7 @@ name: Model Training and Evaluation CI
 on:
   push:
     branches:
-      - kernalridge
+      - kernelridge
 
 jobs:
   build-and-test:
